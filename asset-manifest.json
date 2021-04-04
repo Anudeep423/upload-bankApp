@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Anudeep423/upload-bankApp.git/static/js/main.232cfd60.chunk.js",
-    "main.js.map": "/Anudeep423/upload-bankApp.git/static/js/main.232cfd60.chunk.js.map",
-    "runtime-main.js": "/Anudeep423/upload-bankApp.git/static/js/runtime-main.fe785a6d.js",
-    "runtime-main.js.map": "/Anudeep423/upload-bankApp.git/static/js/runtime-main.fe785a6d.js.map",
-    "static/js/2.2ced47d7.chunk.js": "/Anudeep423/upload-bankApp.git/static/js/2.2ced47d7.chunk.js",
-    "static/js/2.2ced47d7.chunk.js.map": "/Anudeep423/upload-bankApp.git/static/js/2.2ced47d7.chunk.js.map",
-    "static/js/3.7bbcde00.chunk.js": "/Anudeep423/upload-bankApp.git/static/js/3.7bbcde00.chunk.js",
-    "static/js/3.7bbcde00.chunk.js.map": "/Anudeep423/upload-bankApp.git/static/js/3.7bbcde00.chunk.js.map",
-    "index.html": "/Anudeep423/upload-bankApp.git/index.html",
-    "static/js/2.2ced47d7.chunk.js.LICENSE.txt": "/Anudeep423/upload-bankApp.git/static/js/2.2ced47d7.chunk.js.LICENSE.txt"
+    "main.js": "/upload-bankApp.git/static/js/main.232cfd60.chunk.js",
+    "main.js.map": "/upload-bankApp.git/static/js/main.232cfd60.chunk.js.map",
+    "runtime-main.js": "/upload-bankApp.git/static/js/runtime-main.9b3dd775.js",
+    "runtime-main.js.map": "/upload-bankApp.git/static/js/runtime-main.9b3dd775.js.map",
+    "static/js/2.2ced47d7.chunk.js": "/upload-bankApp.git/static/js/2.2ced47d7.chunk.js",
+    "static/js/2.2ced47d7.chunk.js.map": "/upload-bankApp.git/static/js/2.2ced47d7.chunk.js.map",
+    "static/js/3.7bbcde00.chunk.js": "/upload-bankApp.git/static/js/3.7bbcde00.chunk.js",
+    "static/js/3.7bbcde00.chunk.js.map": "/upload-bankApp.git/static/js/3.7bbcde00.chunk.js.map",
+    "index.html": "/upload-bankApp.git/index.html",
+    "static/js/2.2ced47d7.chunk.js.LICENSE.txt": "/upload-bankApp.git/static/js/2.2ced47d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe785a6d.js",
+    "static/js/runtime-main.9b3dd775.js",
     "static/js/2.2ced47d7.chunk.js",
     "static/js/main.232cfd60.chunk.js"
   ]
